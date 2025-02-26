@@ -1,6 +1,6 @@
 # StegoCrypt
 
-StegoCrypt is a **steganography-based encryption tool** that allows users to securely hide secret messages within images. By combining steganography (hiding data within images) with password protection, StegoCrypt ensures that your private communications remain confidential and secure.
+StegoCrypt is a **steganography-based tool** that allows users to securely hide secret messages within images. By combining steganography (hiding data within images) with password protection, StegoCrypt ensures that your private communications remain confidential and secure.
 
 This project is lightweight, easy to use, and built using Python, OpenCV, and NumPy.
 
