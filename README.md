@@ -64,5 +64,10 @@ pip install opencv-python numpy
 
 ---
 
+## Sample Output 📜
+
+![image](https://github.com/user-attachments/assets/2be2bbd7-afef-4236-a802-b4e375def079)
+
+
 
 
