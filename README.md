@@ -64,12 +64,5 @@ pip install opencv-python numpy
 
 ---
 
-## Notes 📝
-
-- Make sure the image file provided for embedding is in a supported format (e.g., PNG, JPG).
-- Use a strong passcode to ensure better security.
-- The extracted message will only be visible if the correct passcode is provided.
-
----
 
 
